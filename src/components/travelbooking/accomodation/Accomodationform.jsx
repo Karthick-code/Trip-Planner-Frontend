@@ -52,13 +52,13 @@ const AccommodationForm = () => {
   });
 
   const handleSubmit = (values, { setSubmitting }) => {
-    // console.log('Form Submitted with values:', values);
+    
 
     const { destination, accommodationType } = values;
 
     // Check if the destination and type exist in the data
     if (!accommodations[destination]) {
-      // console.warn('Destination not found:', destination);
+      
       setFilteredAccommodations([]);
       setSubmitting(false);
       return;
@@ -66,7 +66,7 @@ const AccommodationForm = () => {
 
     const filtered = accommodations[destination][accommodationType] || [];
 
-    // console.log('Filtered Accommodations:', filtered);
+    
     setFilteredAccommodations(filtered);
     setSelectedPlace(null); // Reset selected place
     setSubmitting(false);
@@ -81,11 +81,11 @@ const AccommodationForm = () => {
       ...values
     }
 
-    // console.log('Booking Details:', booking_data);
+    
 
     http.post("/book-accomodations", booking_data)
       .then((res) => {
-        // console.log(res.data);
+       
         if (res) {
           alert('Booking successful');
         } else {
@@ -98,7 +98,7 @@ const AccommodationForm = () => {
     const fetchAccommodations = async () => {
       try {
         const res = await http.get('/accomodation'); // Adjust the endpoint as needed
-        // console.log('Fetched Accommodations:', res.data);
+        
 
         // Transform the array into the required format
         const data = {};

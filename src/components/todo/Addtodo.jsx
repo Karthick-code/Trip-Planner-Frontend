@@ -24,9 +24,9 @@ function Addtodo() {
       description,
     };
     setTodo(todo);
-    // console.log(todo);
+    
     http.post(`/todo/${user._id}`,todo).then((res) => {
-      // console.log(res.data);
+      
       console.log("sucessfully added");
     });
     navigate("/todo");

@@ -208,9 +208,7 @@ export default function PersistentDrawerLeft() {
                 >
                   <ListItem key={ele.name} >
                     <ListItemButton>
-                      {/* <ListItemIcon>
-                         <IconComponent/>// */}
-                      {/*</ListItemIcon> */}
+                      
                       <ListItemText primary={ele.name} />
                     </ListItemButton>
                   </ListItem>

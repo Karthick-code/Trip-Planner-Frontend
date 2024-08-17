@@ -15,11 +15,11 @@ import { useNavigate } from "react-router-dom";
 
 function Addtravel(props) {
   const navigate=useNavigate();
-  // const [travelplans,setTravelplans]=useState([]);
+  
   const [open, setOpen] = useState(true);
   const { user } = useContext(AuthContext);
   //handling submit
-  // console.log(user._id)
+  
   const handleClose = () => {
     setOpen(false);
     navigate("/travelplan");

@@ -77,7 +77,6 @@ const Train = () => {
 
     try {
       const response = await axios.request(options);
-      // console.log(response.data);
       setTrain(response.data.data);
       setSuccess("Train search completed successfully!");
       setError("");

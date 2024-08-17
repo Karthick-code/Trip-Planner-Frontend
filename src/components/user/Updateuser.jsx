@@ -14,9 +14,9 @@ function Updateuser() {
       name:name,
       email:email,
     };
-    // console.log(data);
+    
     http.put(`/user/${user._id}`, data).then((res) => {
-      // console.log(res.data);
+      
       alert("sucessfully updated");
     });
     
