@@ -19,7 +19,7 @@ function Addtravel(props) {
   const [open, setOpen] = useState(true);
   const { user } = useContext(AuthContext);
   //handling submit
-  console.log(user._id)
+  // console.log(user._id)
   const handleClose = () => {
     setOpen(false);
     navigate("/travelplan");
@@ -72,7 +72,7 @@ function Addtravel(props) {
     },
     validationSchema,
     onSubmit: (values) => {
-      console.log(values);
+      // console.log(values);
       handleSubmit(values);
       setOpen(false);
     },

@@ -8,9 +8,9 @@ function Todocard({todo}) {
     
     const handledelete=()=>{
         try{
-            console.log(todo._id)
+            // console.log(todo._id)
         http.delete(`/todo/${todo._id}`).then((res)=>{
-            console.log(res.data);
+            // console.log(res.data);
             console.log("sucessfully deleted");
         })
         }
@@ -19,8 +19,8 @@ function Todocard({todo}) {
         }
     }
     const handleedit=()=>{
-        console.log(todo._id);
-        console.log("edit")
+        // console.log(todo._id);
+        // console.log("edit")
         navigate(`/edittodo/${todo._id}`);
         
     }

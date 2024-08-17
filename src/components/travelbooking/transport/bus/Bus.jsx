@@ -14,6 +14,7 @@ import {
   FormControl,
   InputLabel,
 } from "@mui/material";
+import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import http from "../../../../../utils/http";
 import AuthContext from "../../../../context/AuthContext";
@@ -26,6 +27,7 @@ const validationSchema = Yup.object({
 });
 
 function Bus() {
+    const navigate = useNavigate();
   const { user } = useContext(AuthContext);
   const [busData, setBusData] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
@@ -43,8 +45,12 @@ function Bus() {
         const response = await http.get("/bus/details"); // Update with the correct path
         const buses = response.data;
 
-        const uniqueStartLocations = [...new Set(buses.map(bus => bus.StartLocation))];
-        const uniqueEndLocations = [...new Set(buses.map(bus => bus.EndLocation))];
+        const uniqueStartLocations = [
+          ...new Set(buses.map((bus) => bus.StartLocation)),
+        ];
+        const uniqueEndLocations = [
+          ...new Set(buses.map((bus) => bus.EndLocation)),
+        ];
 
         setStartLocations(uniqueStartLocations);
         setEndLocations(uniqueEndLocations);
@@ -144,11 +150,7 @@ function Bus() {
               <Grid item xs={12} sm={6}>
                 <FormControl fullWidth variant="outlined">
                   <InputLabel>End Location</InputLabel>
-                  <Field
-                    as={Select}
-                    name="endLocation"
-                    label="End Location"
-                  >
+                  <Field as={Select} name="endLocation" label="End Location">
                     {endLocations.map((location) => (
                       <MenuItem key={location} value={location}>
                         {location}
@@ -173,16 +175,18 @@ function Bus() {
                   error={Boolean(<ErrorMessage name="date" />)}
                 />
               </Grid>
-              <Grid item xs={12}>
-                <Button
-                  type="submit"
-                  variant="contained"
-                  color="primary"
-                  disabled={isSubmitting}
-                >
-                  Submit
-                </Button>
-              </Grid>
+              <Button type="submit" variant="contained" color="primary" fullWidth>
+              Search BUS
+            </Button>
+              <Button
+                variant="contained"
+                color="secondary"
+                onClick={() => navigate("/travelbooking")}
+                fullWidth
+                sx={{ mt: 2 }}
+              >
+                Go Back
+              </Button>
             </Grid>
           </Form>
         )}
@@ -222,8 +226,3 @@ function Bus() {
 }
 
 export default Bus;
-
-
-
-
-

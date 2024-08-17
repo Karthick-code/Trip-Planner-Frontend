@@ -70,14 +70,14 @@ const Train = () => {
         dateOfJourney: formattedDate,
       },
       headers: {
-        'x-rapidapi-key': '35d99a83fcmsh87c28c3b6e5653ep1e1500jsn71a795513488',
+        'x-rapidapi-key': '62c48b0543msh5105b6b06b80fe6p16130fjsnf7dda7bd4e81',
         'x-rapidapi-host': 'irctc1.p.rapidapi.com'
       }
     };
 
     try {
       const response = await axios.request(options);
-      console.log(response.data);
+      // console.log(response.data);
       setTrain(response.data.data);
       setSuccess("Train search completed successfully!");
       setError("");
@@ -114,7 +114,7 @@ const Train = () => {
       })
       .then((res) => {
         alert("booked successfully");
-        console.log(res.data);
+        // console.log(res.data);
       })
       .catch((err) => {
         console.log(err);
@@ -184,7 +184,7 @@ const Train = () => {
               Search Trains
             </Button>
             <Button
-              variant="outlined"
+              variant="contained"
               color="secondary"
               onClick={() => navigate("/travelbooking")}
               fullWidth
@@ -228,7 +228,7 @@ const Train = () => {
                           <strong>Distance:</strong> {train.distance}
                         </Typography>
                       </CardContent>
-                      <Button onClick={()=>{handlebook(train)}}>Book Train</Button>
+                      <Button variant="contained" onClick={()=>{handlebook(train)}}>Book Train</Button>
                     </Card>
                   </Grid>
                 ))}

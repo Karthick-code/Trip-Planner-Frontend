@@ -1,3 +1,8 @@
+
+
+
+
+
 import * as React from "react";
 import dashboard from "../dashboard.json";
 import { Link } from "react-router-dom";
@@ -193,7 +198,7 @@ export default function PersistentDrawerLeft() {
               <Divider />
               {dashboard.map((ele, index) => {
                 const IconComponent = icon_mapping[ele.icon];
-                console.log(IconComponent);
+                // console.log(IconComponent);
                 return(
                   <Button
                   component={Link}

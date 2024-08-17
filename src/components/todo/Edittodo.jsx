@@ -22,7 +22,7 @@ function Edittodo() {
     //const todoId = window.location.pathname.split("/")[3];
     
     http.get(`/todo/edit/${id}`).then((res) => {
-      console.log(res.data);
+      // console.log(res.data);
       setTitle(res.data.title);
       setDescription(res.data.description);
     });
@@ -33,9 +33,9 @@ function Edittodo() {
       description,
     };
     setUpdatedTodo(newtodo);
-    console.log(newtodo);
+    // console.log(newtodo);
     http.put(`/todo/${id}`,newtodo).then((res) => {
-      console.log(res.data);
+      // console.log(res.data);
       console.log("sucessfully Updated");
     });
     navigate("/todo");

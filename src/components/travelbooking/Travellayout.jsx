@@ -37,7 +37,7 @@ function DrawerAppBar(props) {
   };
   useEffect(() => {
     http.get(`/booking/${user._id}`).then((res) => setBookings(res.data));
-    console.log(bookings);
+    // console.log(bookings);
   }, []);
 
   const drawer = (

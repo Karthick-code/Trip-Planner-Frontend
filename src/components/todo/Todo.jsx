@@ -12,12 +12,12 @@ function Todo() {
   const { user } = useContext(AuthContext);
 
   useEffect(() => {
-    console.log(user._id);
+    // console.log(user._id);
     http
       .get(`/todo/${user._id}`) //${user._id}
       .then((res) => {
         setTodos(res.data);
-        console.log(res.data);
+        // console.log(res.data);
       })
       .catch((err) => {
         console.log(err);

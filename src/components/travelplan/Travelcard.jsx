@@ -1,7 +1,7 @@
 import { Card, CardContent, CardHeader } from "@mui/material";
 import React from "react";
 function Travelcard({ plan }) {
-  console.log(plan);
+  // console.log(plan);
   return (
     <>
       <div className="col-sm-12 ">

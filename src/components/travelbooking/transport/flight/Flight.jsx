@@ -56,7 +56,7 @@ function Flight() {
       date: formatDate(date) // Use formatted date
     },
     headers: {
-      'x-rapidapi-key': '35d99a83fcmsh87c28c3b6e5653ep1e1500jsn71a795513488',
+      'x-rapidapi-key': '62c48b0543msh5105b6b06b80fe6p16130fjsnf7dda7bd4e81',
       'x-rapidapi-host': 'sky-scrapper.p.rapidapi.com'
     }
   };
@@ -115,7 +115,7 @@ function Flight() {
       })
       .then((res) => {
         alert("booked successfully");
-        console.log(res.data);
+        // console.log(res.data);
       })
       .catch((err) => {
         console.log(err);
@@ -200,7 +200,7 @@ function Flight() {
           </Alert>
         )}
         <Button
-          variant="outlined"
+          variant="contained"
           color="secondary"
           onClick={() => navigate("/travelbooking")}
           fullWidth
@@ -222,7 +222,7 @@ function Flight() {
                     <Typography variant="body1">Flight ID: {item.id}</Typography>
                     <Typography variant="body1">Price: {item.price.formatted}</Typography>
                   </CardContent>
-                  <Button onClick={() => handlebook(item)}>Book Flight</Button>
+                  <Button variant="contained" onClick={() => handlebook(item)}>Book Flight</Button>
                 </Card>
               </Grid>
             ))}
