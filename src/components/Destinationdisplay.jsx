@@ -2,9 +2,10 @@ import React , {useContext} from 'react'
 import {Card ,CardActions,CardContent,CardMedia,Button,Typography}from '@mui/material';
 import AuthContext from '../context/AuthContext';
 import Addtravel from './travelplan/Addtravel';
-
+import { useNavigate } from 'react-router-dom';
 
 function Destinationdisplay({data}) {
+  const navigate=useNavigate();
   const {user}=useContext(AuthContext);
   const handleClick=()=>{
     user?window.location.href="/travelplan/":window.location.href="/login"
@@ -14,9 +15,7 @@ function Destinationdisplay({data}) {
     <Button onClick={()=>{
       var a=data.title.toLowerCase().replace(/\s/g,'').split(',');
       //console.log(a[0])
-      user?(()=>{return(<>
-        {window.location.href=`/addtravel`}</>
-      )}):window.location.href="/login"
+      user?(navigate(`/addtravel`)):navigate("/login")
       // user?window.location.href=`/addtravel/${a[0]}}`:window.location.href="/login"
     }}>
     <Card sx={{ maxWidth: 345 }}>
