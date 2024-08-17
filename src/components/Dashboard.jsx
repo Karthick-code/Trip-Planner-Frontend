@@ -204,12 +204,13 @@ export default function PersistentDrawerLeft() {
                   component={Link}
                   to={`/${ele.name.toLowerCase().replace(/\s/g, "")}`}
                   key={index}
+                  style={{ alignText: "center",padding:"2px" }}
                 >
-                  <ListItem key={ele.name} disablePadding>
+                  <ListItem key={ele.name} >
                     <ListItemButton>
-                      <ListItemIcon>
-                        {/* <IconComponent/>// */}
-                      </ListItemIcon>
+                      {/* <ListItemIcon>
+                         <IconComponent/>// */}
+                      {/*</ListItemIcon> */}
                       <ListItemText primary={ele.name} />
                     </ListItemButton>
                   </ListItem>
