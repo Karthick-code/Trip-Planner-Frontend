@@ -3,6 +3,7 @@ Here in this project I have used React JS, Node JS, Express JS, MongoDB, and Mon
 
 HOME:
 In home page it displaya the destinations that are added in the database.
+The destinations are displayed in cards. it also has a learn more button which redirects to location in google maps.
 
 LOGIN:
 In login page we can login with the existing user details.
