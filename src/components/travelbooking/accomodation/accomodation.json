@@ -1,0 +1,1372 @@
+[{
+    "Udaipur, Rajasthan": {
+      "hotels": [
+        {
+          "name": "Taj Lake Palace",
+          "description": "A luxurious heritage hotel set on an island in Lake Pichola, offering regal accommodations and stunning views of the lake and surrounding palaces.",
+          "amenities": ["Spa", "Swimming pool", "Restaurant", "Boat rides", "Free Wi-Fi"],
+          "location": "Lake Pichola, Udaipur"
+        },
+        {
+          "name": "The Oberoi Udaivilas",
+          "description": "An opulent resort situated on the banks of Lake Pichola, featuring grand architecture, beautiful gardens, and world-class service.",
+          "amenities": ["Spa", "Swimming pool", "Restaurant", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Haridasji Ki Magri, Udaipur"
+        },
+        {
+          "name": "Trident Udaipur",
+          "description": "A contemporary hotel offering elegant accommodations and easy access to Udaipur's historic sites.",
+          "amenities": ["Swimming pool", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Mulla Talai, Udaipur"
+        },
+        {
+          "name": "Fateh Prakash Palace",
+          "description": "A palace hotel that offers a royal experience with luxurious rooms and a majestic view of Lake Pichola.",
+          "amenities": ["Restaurant", "Bar", "Swimming pool", "Spa", "Free Wi-Fi"],
+          "location": "City Palace Complex, Udaipur"
+        },
+        {
+          "name": "Jagat Niwas Palace Hotel",
+          "description": "A heritage hotel with traditional Rajasthani architecture, offering rooms with balconies overlooking Lake Pichola.",
+          "amenities": ["Restaurant", "Rooftop terrace", "Free Wi-Fi"],
+          "location": "Lal Ghat, Udaipur"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Udai Haveli Guest House",
+          "description": "A charming guest house offering budget accommodations with traditional decor and a homely atmosphere.",
+          "amenities": ["Restaurant", "Rooftop seating", "Free Wi-Fi"],
+          "location": "Chandpole, Udaipur"
+        },
+        {
+          "name": "Hibiscus Guest House",
+          "description": "A budget-friendly guest house located near the lake, offering cozy rooms and a relaxed vibe.",
+          "amenities": ["Rooftop restaurant", "Garden", "Free Wi-Fi"],
+          "location": "Hanuman Ghat, Udaipur"
+        },
+        {
+          "name": "Madri Haveli",
+          "description": "A beautifully restored haveli offering stylish rooms with a mix of traditional and modern decor.",
+          "amenities": ["Restaurant", "Rooftop terrace", "Free Wi-Fi"],
+          "location": "Ghaneroa Street, Udaipur"
+        },
+        {
+          "name": "Shiv Niwas Palace Hotel",
+          "description": "A royal guest house part of the City Palace complex, offering heritage rooms with modern amenities.",
+          "amenities": ["Swimming pool", "Restaurant", "Bar", "Free Wi-Fi"],
+          "location": "City Palace Complex, Udaipur"
+        },
+        {
+          "name": "Banjara Hostel",
+          "description": "A laid-back hostel offering both private rooms and dormitories, perfect for backpackers looking to explore Udaipur.",
+          "amenities": ["Common area", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Hanuman Ghat, Udaipur"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Moustache Udaipur",
+          "description": "A trendy backpacker hostel offering dorms and private rooms with a lively atmosphere and stunning views of the city.",
+          "amenities": ["Common lounge", "Rooftop terrace", "Organized activities", "Free Wi-Fi"],
+          "location": "Chandpole, Udaipur"
+        },
+        {
+          "name": "Banjara Hostel",
+          "description": "A popular budget hostel with comfortable dorms and private rooms, located near the lakeside.",
+          "amenities": ["Common area", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Hanuman Ghat, Udaipur"
+        },
+        {
+          "name": "The Hostelcrawl",
+          "description": "A vibrant hostel known for its social atmosphere, offering shared and private accommodations.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Gangaur Ghat, Udaipur"
+        },
+        {
+          "name": "Gypsy Child Lake Hostel",
+          "description": "A cozy hostel with a homely feel, providing dormitory and private rooms with easy access to local attractions.",
+          "amenities": ["Common kitchen", "Rooftop terrace", "Free Wi-Fi"],
+          "location": "Ambamata, Udaipur"
+        },
+        {
+          "name": "Bunkyard Hostel",
+          "description": "A fun and youthful hostel offering a mix of dorms and private rooms, with a focus on social activities and events.",
+          "amenities": ["Rooftop terrace", "Bar", "Common area", "Free Wi-Fi"],
+          "location": "Jagdish Temple Road, Udaipur"
+        }
+      ]
+    }
+  },
+  {
+    "Kerala Backwaters": {
+      "hotels": [
+        {
+          "name": "Coconut Lagoon",
+          "description": "A luxury eco-resort located on the banks of Vembanad Lake, offering traditional Kerala-style accommodations and serene views of the backwaters.",
+          "amenities": ["Swimming pool", "Ayurvedic spa", "Restaurant", "Boating", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        },
+        {
+          "name": "Zuri Kumarakom Resort & Spa",
+          "description": "A premium resort offering spacious villas and cottages with private pools, surrounded by the tranquil backwaters.",
+          "amenities": ["Private pool", "Spa", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        },
+        {
+          "name": "Vivanta by Taj - Kumarakom",
+          "description": "A heritage property offering luxurious accommodations and exceptional service, set amidst lush gardens and serene backwaters.",
+          "amenities": ["Spa", "Swimming pool", "Restaurant", "Fishing", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        },
+        {
+          "name": "Vasundhara Sarovar Premiere",
+          "description": "A boutique resort located in the backwaters, offering a blend of modern luxury and traditional Kerala hospitality.",
+          "amenities": ["Spa", "Swimming pool", "Restaurant", "Cultural activities", "Free Wi-Fi"],
+          "location": "Vayalar, Kerala"
+        },
+        {
+          "name": "Kumarakom Lake Resort",
+          "description": "An award-winning luxury resort offering traditional Kerala architecture, elegant accommodations, and panoramic views of the backwaters.",
+          "amenities": ["Infinity pool", "Spa", "Restaurant", "Houseboat cruises", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Kerala Houseboats",
+          "description": "Traditional houseboats available for rent, offering a unique experience of living on the backwaters with modern amenities.",
+          "amenities": ["Full-board meals", "Private rooms", "Air conditioning", "Guided tours"],
+          "location": "Alleppey and Kumarakom, Kerala"
+        },
+        {
+          "name": "Backwater Ripples",
+          "description": "A charming resort offering independent cottages with backwater views, ideal for a peaceful getaway.",
+          "amenities": ["Swimming pool", "Restaurant", "Spa", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        },
+        {
+          "name": "Tharavadu Heritage Home",
+          "description": "A heritage homestay offering traditional Kerala-style accommodations with a touch of history and culture.",
+          "amenities": ["Ayurvedic treatments", "Restaurant", "Boat rides", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        },
+        {
+          "name": "Kayal Island Retreat",
+          "description": "A secluded island retreat offering private cottages surrounded by the serene backwaters, perfect for a tranquil escape.",
+          "amenities": ["Boat transfers", "Cultural activities", "Restaurant", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        },
+        {
+          "name": "The Waterscapes",
+          "description": "A nature resort offering eco-friendly cottages with direct access to the backwaters, ideal for nature lovers.",
+          "amenities": ["Boating", "Restaurant", "Swimming pool", "Free Wi-Fi"],
+          "location": "Kumarakom, Kerala"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Alleppey",
+          "description": "A popular backpacker hostel with a lively atmosphere, offering dormitory and private rooms with easy access to the beach and backwaters.",
+          "amenities": ["Common areas", "Kitchen access", "Organized tours", "Free Wi-Fi"],
+          "location": "Sea View Ward, Alappuzha"
+        },
+        {
+          "name": "Artpackers.Life",
+          "description": "A unique art-themed hostel located in a heritage building, offering dorms and private rooms with a creative vibe.",
+          "amenities": ["Art workshops", "Community kitchen", "Library", "Free Wi-Fi"],
+          "location": "Kommady Ward, Alappuzha"
+        },
+        {
+          "name": "Venice Castle",
+          "description": "A budget-friendly hostel providing a homely atmosphere with basic amenities, located near the backwaters.",
+          "amenities": ["Free breakfast", "Bicycle rentals", "Common lounge", "Free Wi-Fi"],
+          "location": "Finishing Point Road, Alappuzha"
+        },
+        {
+          "name": "Nomads Hostel",
+          "description": "A cozy hostel catering to budget travelers, offering both dormitory and private rooms with essential amenities.",
+          "amenities": ["Kitchen access", "Common area", "Free Wi-Fi"],
+          "location": "Kalath Ward, Alappuzha"
+        },
+        {
+          "name": "Dream Heaven Cottage",
+          "description": "A laid-back hostel offering a peaceful stay with a local touch, close to both the beach and backwaters.",
+          "amenities": ["Garden", "Common lounge", "Bicycle rentals", "Free Wi-Fi"],
+          "location": "Punnapra, Alappuzha"
+        }
+      ]
+    }
+  },
+  {
+    "Rishikesh, Uttarakhand": {
+      "hotels": [
+        {
+          "name": "Ananda in the Himalayas",
+          "description": "A luxury wellness retreat offering holistic therapies and spa treatments, set in the serene foothills of the Himalayas.",
+          "amenities": ["Spa", "Yoga sessions", "Restaurant", "Swimming pool", "Free Wi-Fi"],
+          "location": "Narendra Nagar, Rishikesh"
+        },
+        {
+          "name": "Aloha on the Ganges",
+          "description": "A riverside resort offering stunning views of the Ganges and comfortable accommodations with modern amenities.",
+          "amenities": ["Swimming pool", "Restaurant", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Tapovan, Rishikesh"
+        },
+        {
+          "name": "The Glasshouse on the Ganges",
+          "description": "A heritage property offering boutique accommodations amidst lush gardens and by the banks of the Ganges.",
+          "amenities": ["Restaurant", "Spa", "Private river access", "Free Wi-Fi"],
+          "location": "Gular Dogi, Rishikesh"
+        },
+        {
+          "name": "Hotel Ganga Kinare",
+          "description": "A riverside hotel providing comfortable rooms with panoramic views of the Ganges and access to spiritual experiences.",
+          "amenities": ["Restaurant", "Spa", "Yoga and meditation sessions", "Free Wi-Fi"],
+          "location": "Veerbhadra Road, Rishikesh"
+        },
+        {
+          "name": "EllBee Ganga View",
+          "description": "A modern hotel offering spacious rooms with a panoramic view of the Ganges and proximity to local attractions.",
+          "amenities": ["Rooftop restaurant", "Spa", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Haridwar Road, Rishikesh"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Divine Resort & Spa",
+          "description": "A resort offering modern amenities and scenic views of the Ganges, ideal for relaxation and spiritual retreats.",
+          "amenities": ["Spa", "Restaurant", "Yoga center", "Free Wi-Fi"],
+          "location": "Laxman Jhula Road, Rishikesh"
+        },
+        {
+          "name": "Shanti Residency",
+          "description": "A peaceful guesthouse providing comfortable accommodations with easy access to Rishikesh's temples and ashrams.",
+          "amenities": ["Restaurant", "Garden", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Tapovan, Rishikesh"
+        },
+        {
+          "name": "Raga on the Ganges",
+          "description": "A boutique resort offering luxurious accommodations with a blend of adventure and tranquility by the Ganges.",
+          "amenities": ["Adventure activities", "Restaurant", "Spa", "Free Wi-Fi"],
+          "location": "Singthali, Rishikesh"
+        },
+        {
+          "name": "Shivalik Hills Resort",
+          "description": "A cozy resort nestled in the hills, offering a serene environment and panoramic views of the surrounding landscape.",
+          "amenities": ["Restaurant", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Neelkanth Road, Rishikesh"
+        },
+        {
+          "name": "Jungle Vibes Homestay",
+          "description": "A homestay offering a rustic experience in the midst of nature, perfect for those looking for a peaceful retreat.",
+          "amenities": ["Garden", "Bonfire", "Free Wi-Fi"],
+          "location": "Ghugtyani Village, Rishikesh"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Live Free Hostel",
+          "description": "A vibrant hostel with a lively atmosphere, offering budget accommodations and organized activities.",
+          "amenities": ["Common areas", "Kitchen access", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Tapovan, Rishikesh"
+        },
+        {
+          "name": "Bunk Stay Rishikesh",
+          "description": "A modern hostel offering dorms and private rooms with a rooftop cafe and stunning views of the Ganges.",
+          "amenities": ["Rooftop cafe", "Yoga sessions", "Common area", "Free Wi-Fi"],
+          "location": "Laxman Jhula, Rishikesh"
+        },
+        {
+          "name": "Zostel Rishikesh",
+          "description": "A popular backpacker hostel offering a social atmosphere with dormitories and private rooms, located near the Ganges.",
+          "amenities": ["Common lounge", "Organized tours", "Free Wi-Fi"],
+          "location": "Tapovan, Rishikesh"
+        },
+        {
+          "name": "Hosteller Rishikesh",
+          "description": "A trendy hostel catering to budget travelers, offering dormitory and private rooms with a focus on community experiences.",
+          "amenities": ["Common area", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Tapovan, Rishikesh"
+        },
+        {
+          "name": "Shiv Shakti Hostel",
+          "description": "A budget hostel offering a relaxed environment with dorms and private rooms, located close to Rishikesh's main attractions.",
+          "amenities": ["Common kitchen", "Organized activities", "Free Wi-Fi"],
+          "location": "Laxman Jhula, Rishikesh"
+        }
+      ]
+    }
+  },
+  {
+    "Goa": {
+      "hotels": [
+        {
+          "name": "Taj Exotica Resort & Spa",
+          "description": "A luxurious beachfront resort offering Mediterranean-style villas, set in lush gardens with stunning views of the Arabian Sea.",
+          "amenities": ["Private beach", "Spa", "Swimming pool", "Multiple restaurants", "Free Wi-Fi"],
+          "location": "Benaulim Beach, South Goa"
+        },
+        {
+          "name": "The Leela Goa",
+          "description": "An opulent resort featuring a mix of traditional and contemporary Goan architecture, with access to a private beach and golf course.",
+          "amenities": ["Private beach", "Spa", "Golf course", "Swimming pool", "Free Wi-Fi"],
+          "location": "Mobor Beach, South Goa"
+        },
+        {
+          "name": "Alila Diwa Goa",
+          "description": "A serene resort offering spacious rooms and suites with contemporary design, surrounded by lush paddy fields.",
+          "amenities": ["Infinity pool", "Spa", "Multiple restaurants", "Yoga sessions", "Free Wi-Fi"],
+          "location": "Majorda Beach, South Goa"
+        },
+        {
+          "name": "Vivanta Goa, Panaji",
+          "description": "A modern luxury hotel located in the heart of Panaji, offering easy access to Goa's cultural and nightlife attractions.",
+          "amenities": ["Rooftop pool", "Spa", "Fitness center", "Restaurant", "Free Wi-Fi"],
+          "location": "Panaji, North Goa"
+        },
+        {
+          "name": "W Goa",
+          "description": "A trendy beachfront resort known for its vibrant atmosphere, chic design, and panoramic views of Vagator Beach.",
+          "amenities": ["Beach access", "Spa", "Nightclub", "Multiple restaurants", "Free Wi-Fi"],
+          "location": "Vagator Beach, North Goa"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Casa Menezes",
+          "description": "A heritage home offering a blend of colonial charm and modern comfort, located in a quaint Goan village.",
+          "amenities": ["Private garden", "Pool", "Cook on request", "Free Wi-Fi"],
+          "location": "Batim, North Goa"
+        },
+        {
+          "name": "Villa Alina",
+          "description": "A luxurious villa with a private pool and modern amenities, located close to Anjuna Beach.",
+          "amenities": ["Private pool", "Garden", "Cook and housekeeping services", "Free Wi-Fi"],
+          "location": "Anjuna Beach, North Goa"
+        },
+        {
+          "name": "Casa Cottage",
+          "description": "A charming Portuguese-style cottage offering a cozy retreat with easy access to beaches and local attractions.",
+          "amenities": ["Garden", "Cook on request", "Free Wi-Fi"],
+          "location": "Calangute, North Goa"
+        },
+        {
+          "name": "Lazy Frog Villa",
+          "description": "A peaceful villa with comfortable rooms and a relaxed atmosphere, perfect for a quiet getaway.",
+          "amenities": ["Swimming pool", "Garden", "Bicycle rentals", "Free Wi-Fi"],
+          "location": "Carmona, South Goa"
+        },
+        {
+          "name": "Capella Forest Retreat",
+          "description": "A secluded boutique villa offering a serene environment amidst nature, with luxurious rooms and personalized service.",
+          "amenities": ["Forest views", "Swimming pool", "Library", "Free Wi-Fi"],
+          "location": "Parra, North Goa"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "The Funky Monkey Hostel",
+          "description": "A lively backpacker hostel offering dorms and private rooms, with a social atmosphere and organized events.",
+          "amenities": ["Common lounge", "Bar", "Live music", "Free Wi-Fi"],
+          "location": "Anjuna Beach, North Goa"
+        },
+        {
+          "name": "Pappi Chulo Hostel",
+          "description": "A trendy hostel known for its vibrant decor and social vibe, offering budget accommodations near Vagator Beach.",
+          "amenities": ["Garden", "Bar", "Common area", "Free Wi-Fi"],
+          "location": "Vagator Beach, North Goa"
+        },
+        {
+          "name": "Wanderers Hostel",
+          "description": "A cozy hostel with a relaxed environment, featuring dormitories and private rooms, located near Morjim Beach.",
+          "amenities": ["Swimming pool", "Yoga classes", "Common kitchen", "Free Wi-Fi"],
+          "location": "Morjim Beach, North Goa"
+        },
+        {
+          "name": "The Hosteller Goa",
+          "description": "A popular hostel offering clean and comfortable accommodations with a focus on community experiences.",
+          "amenities": ["Common area", "Rooftop cafe", "Organized activities", "Free Wi-Fi"],
+          "location": "Palolem Beach, South Goa"
+        },
+        {
+          "name": "Dreams Hostel",
+          "description": "A laid-back hostel providing a blend of private rooms and dorms, with a garden and close proximity to Anjuna Beach.",
+          "amenities": ["Garden", "Common area", "Bicycle rentals", "Free Wi-Fi"],
+          "location": "Anjuna Beach, North Goa"
+        }
+      ]
+    }
+  },
+  {
+    "Agra, Uttar Pradesh": {
+      "hotels": [
+        {
+          "name": "The Oberoi Amarvilas",
+          "description": "A luxurious hotel offering stunning views of the Taj Mahal, with elegant Mughal-inspired architecture and world-class amenities.",
+          "amenities": ["Infinity pool", "Spa", "Multiple restaurants", "Private balconies with Taj Mahal views", "Free Wi-Fi"],
+          "location": "Taj East Gate Road, Agra"
+        },
+        {
+          "name": "ITC Mughal, a Luxury Collection Hotel",
+          "description": "A heritage hotel offering opulent accommodations inspired by Mughal architecture, set in lush gardens near the Taj Mahal.",
+          "amenities": ["Spa", "Swimming pool", "Multiple restaurants", "Fitness center", "Free Wi-Fi"],
+          "location": "Taj Ganj, Agra"
+        },
+        {
+          "name": "Taj Hotel & Convention Centre",
+          "description": "A modern luxury hotel with spacious rooms and state-of-the-art facilities, offering proximity to the Taj Mahal.",
+          "amenities": ["Infinity pool", "Spa", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Taj East Gate Road, Agra"
+        },
+        {
+          "name": "Radisson Hotel Agra",
+          "description": "A contemporary hotel offering comfortable accommodations with modern amenities, located close to the Taj Mahal.",
+          "amenities": ["Rooftop pool", "Spa", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Taj East Gate Road, Agra"
+        },
+        {
+          "name": "Jaypee Palace Hotel & Convention Centre",
+          "description": "A sprawling luxury hotel with expansive gardens, offering a blend of modern comforts and traditional Indian hospitality.",
+          "amenities": ["Spa", "Swimming pool", "Multiple restaurants", "Shopping arcade", "Free Wi-Fi"],
+          "location": "Fatehabad Road, Agra"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Coral Court Homestay",
+          "description": "A charming homestay offering personalized service and comfortable accommodations, located near the Taj Mahal.",
+          "amenities": ["Homemade meals", "Garden", "Free Wi-Fi"],
+          "location": "Taj Ganj, Agra"
+        },
+        {
+          "name": "N.Homestay",
+          "description": "A cozy homestay providing a warm and welcoming environment with traditional Indian hospitality.",
+          "amenities": ["Home-cooked meals", "Free Wi-Fi", "Guided tours"],
+          "location": "Taj Nagri, Agra"
+        },
+        {
+          "name": "Ranjit’s Ambrosia",
+          "description": "A boutique villa offering luxurious accommodations with a blend of modern amenities and traditional decor.",
+          "amenities": ["Private garden", "Cook on request", "Free Wi-Fi"],
+          "location": "Vibhav Nagar, Agra"
+        },
+        {
+          "name": "The Hideout Agra",
+          "description": "A peaceful retreat offering a mix of rustic and modern elements, ideal for travelers looking for a quiet getaway.",
+          "amenities": ["Garden", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Taj Nagri, Agra"
+        },
+        {
+          "name": "Coral Tree Homestay",
+          "description": "A family-run homestay offering comfortable accommodations and a homely atmosphere with close proximity to the Taj Mahal.",
+          "amenities": ["Garden", "Home-cooked meals", "Free Wi-Fi"],
+          "location": "Taj Ganj, Agra"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Agra",
+          "description": "A popular backpacker hostel offering dorms and private rooms with a lively atmosphere and organized activities.",
+          "amenities": ["Rooftop lounge", "Common kitchen", "Free Wi-Fi"],
+          "location": "Taj East Gate Road, Agra"
+        },
+        {
+          "name": "Moustache Hostel Agra",
+          "description": "A trendy hostel offering budget accommodations with a focus on community and social experiences.",
+          "amenities": ["Rooftop cafe", "Common area", "Free Wi-Fi"],
+          "location": "Fatehabad Road, Agra"
+        },
+        {
+          "name": "Gostops Agra",
+          "description": "A vibrant hostel with colorful decor and a social atmosphere, providing both dormitory and private rooms.",
+          "amenities": ["Common area", "Organized tours", "Free Wi-Fi"],
+          "location": "Fatehabad Road, Agra"
+        },
+        {
+          "name": "Backpacker Panda Friends Agra",
+          "description": "A budget-friendly hostel offering clean and comfortable accommodations with easy access to the Taj Mahal.",
+          "amenities": ["Common lounge", "Kitchen access", "Free Wi-Fi"],
+          "location": "Taj East Gate Road, Agra"
+        },
+        {
+          "name": "Joey's Hostel Agra",
+          "description": "A social hostel offering affordable dorms and private rooms with a relaxed vibe and close proximity to the Taj Mahal.",
+          "amenities": ["Rooftop terrace", "Common area", "Free Wi-Fi"],
+          "location": "Taj Ganj, Agra"
+        }
+      ]
+    }
+  },
+  {
+    "Mysore, Karnataka": {
+      "hotels": [
+        {
+          "name": "Radisson Blu Plaza Hotel Mysore",
+          "description": "A luxurious hotel offering elegant rooms and suites with modern amenities, located close to Mysore Palace and other attractions.",
+          "amenities": ["Swimming pool", "Spa", "Fitness center", "Multiple restaurants", "Free Wi-Fi"],
+          "location": "MG Road, Mysore"
+        },
+        {
+          "name": "Royal Orchid Metropole",
+          "description": "A heritage hotel with colonial charm, offering luxurious accommodations and a blend of old-world and modern comforts.",
+          "amenities": ["Swimming pool", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Jhansi Lakshmi Bai Road, Mysore"
+        },
+        {
+          "name": "Fortune JP Palace",
+          "description": "A contemporary hotel offering comfortable rooms with a royal ambiance, located near the city's major attractions.",
+          "amenities": ["Swimming pool", "Spa", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Abdul Kalam Road, Mysore"
+        },
+        {
+          "name": "Southern Star Mysore",
+          "description": "A modern hotel providing spacious rooms and top-notch facilities, with close proximity to Mysore Palace and other landmarks.",
+          "amenities": ["Swimming pool", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Vinoba Road, Mysore"
+        },
+        {
+          "name": "Hotel Sandesh The Prince",
+          "description": "A well-known hotel in Mysore offering comfortable accommodations and a range of amenities for both leisure and business travelers.",
+          "amenities": ["Swimming pool", "Spa", "Multiple restaurants", "Fitness center", "Free Wi-Fi"],
+          "location": "Nazarbad Main Road, Mysore"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Green Lotus House",
+          "description": "A charming homestay offering a peaceful environment with lush greenery, located near Mysore's major attractions.",
+          "amenities": ["Garden", "Home-cooked meals", "Free Wi-Fi"],
+          "location": "Chamundi Hill Road, Mysore"
+        },
+        {
+          "name": "Gitanjali Homestay",
+          "description": "A family-run homestay providing a warm and welcoming atmosphere with personalized service and comfortable accommodations.",
+          "amenities": ["Garden", "Home-cooked meals", "Free Wi-Fi"],
+          "location": "Lalithadripura, Mysore"
+        },
+        {
+          "name": "Balakrishna's Guesthouse",
+          "description": "A cozy guesthouse offering a homely atmosphere with easy access to Mysore's popular sights and sounds.",
+          "amenities": ["Garden", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Jayalakshmipuram, Mysore"
+        },
+        {
+          "name": "Silent Shores Resort & Spa",
+          "description": "A luxury resort offering spacious accommodations with modern amenities, set amidst serene surroundings on the outskirts of Mysore.",
+          "amenities": ["Swimming pool", "Spa", "Multiple restaurants", "Fitness center", "Free Wi-Fi"],
+          "location": "Hootagalli, Mysore"
+        },
+        {
+          "name": "Royal Suites Apartment",
+          "description": "A serviced apartment offering spacious and well-furnished rooms with modern amenities, ideal for long stays.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Kuvempunagar, Mysore"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Mysore",
+          "description": "A lively hostel offering dorms and private rooms with a social atmosphere and organized activities, located near major attractions.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Lakshmipuram, Mysore"
+        },
+        {
+          "name": "Mysore Bunkers",
+          "description": "A budget-friendly hostel offering clean and comfortable dorms and private rooms with a relaxed vibe.",
+          "amenities": ["Common area", "Bicycle rentals", "Free Wi-Fi"],
+          "location": "Gokulam, Mysore"
+        },
+        {
+          "name": "The Mansion 1907",
+          "description": "A heritage hostel offering a blend of traditional architecture and modern facilities, with a social atmosphere.",
+          "amenities": ["Garden", "Common lounge", "Free Wi-Fi"],
+          "location": "Chamarajapuram, Mysore"
+        },
+        {
+          "name": "Hostel Travelers House",
+          "description": "A cozy hostel offering affordable accommodations with a focus on community and cultural exchange.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Kuvempunagar, Mysore"
+        },
+        {
+          "name": "Treebo Trend Komfort Suites",
+          "description": "A budget hotel offering clean and comfortable accommodations with easy access to Mysore's main attractions.",
+          "amenities": ["Restaurant", "Free parking", "Free Wi-Fi"],
+          "location": "Yadavagiri, Mysore"
+        }
+      ]
+    }
+  },  
+  {
+    "Varanasi, Uttar Pradesh": {
+      "hotels": [
+        {
+          "name": "Taj Ganges, Varanasi",
+          "description": "A luxurious hotel with modern amenities and elegant rooms, located close to the ghats and other attractions.",
+          "amenities": ["Swimming pool", "Spa", "Fitness center", "Multiple restaurants", "Free Wi-Fi"],
+          "location": "The Mall, Varanasi"
+        },
+        {
+          "name": "Ramada Plaza by Wyndham Varanasi",
+          "description": "Upscale hotel offering comfortable rooms and excellent facilities, situated near key landmarks.",
+          "amenities": ["Swimming pool", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "The Mall, Varanasi"
+        },
+        {
+          "name": "Hotel Alka",
+          "description": "Budget-friendly hotel with a prime location near the ghats, offering basic amenities and comfortable stay.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "B-4/158, Assi Ghat, Varanasi"
+        },
+        {
+          "name": "BrijRama Palace",
+          "description": "Heritage hotel with stunning views of the Ganges River, offering a blend of traditional and modern comforts.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Darbhanga Ghat, Varanasi"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Ganga View Apartment",
+          "description": "A cozy apartment with views of the Ganges, providing a comfortable stay near popular attractions.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Near Assi Ghat, Varanasi"
+        },
+        {
+          "name": "Airbnb - Heritage Home Stay",
+          "description": "Traditional stay with modern amenities, offering a warm atmosphere close to the ghats.",
+          "amenities": ["Garden", "Home-cooked meals", "Free Wi-Fi"],
+          "location": "Near Dashashwamedh Ghat, Varanasi"
+        },
+        {
+          "name": "Vrbo - Varanasi Retreat",
+          "description": "Spacious vacation rental with easy access to local attractions, ideal for long stays.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Varanasi City Center"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Hostel Avasa",
+          "description": "Budget hostel with a vibrant atmosphere, located near Assi Ghat and other popular sites.",
+          "amenities": ["Common lounge", "Free Wi-Fi"],
+          "location": "Near Assi Ghat, Varanasi"
+        },
+        {
+          "name": "Shivakashi Hostel",
+          "description": "Simple and affordable accommodation with a relaxed vibe, located near Dashashwamedh Ghat.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Near Dashashwamedh Ghat, Varanasi"
+        },
+        {
+          "name": "Zostel Varanasi",
+          "description": "Popular hostel chain offering comfortable dorms and social spaces, situated near Assi Ghat.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Near Assi Ghat, Varanasi"
+        }
+      ]
+    }
+  },
+  {
+    "Darjeeling, West Bengal": {
+      "hotels": [
+        {
+          "name": "The Elgin, Darjeeling",
+          "description": "A luxurious heritage hotel offering elegant rooms and a blend of colonial charm and modern amenities, located in the heart of Darjeeling.",
+          "amenities": ["Restaurant", "Spa", "Fitness center", "Free Wi-Fi"],
+          "location": "The Mall, Darjeeling"
+        },
+        {
+          "name": "Hotel Himalayan Retreat",
+          "description": "A comfortable hotel providing stunning views of the Himalayas and cozy accommodations, close to popular attractions.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Chauk Bazaar, Darjeeling"
+        },
+        {
+          "name": "Mayfair Darjeeling",
+          "description": "An upscale hotel with a blend of modern and traditional styles, offering premium services and facilities with breathtaking views.",
+          "amenities": ["Swimming pool", "Spa", "Restaurant", "Free Wi-Fi"],
+          "location": "Cooch Behar Road, Darjeeling"
+        },
+        {
+          "name": "Sterling Darjeeling",
+          "description": "A contemporary hotel with comfortable rooms and excellent facilities, located near the main market area.",
+          "amenities": ["Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Jorebunglow, Darjeeling"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Hill View Cottage",
+          "description": "A charming cottage offering panoramic views of the hills and a cozy stay with modern amenities.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Near Chowrasta, Darjeeling"
+        },
+        {
+          "name": "Airbnb - Darjeeling Homestay",
+          "description": "A traditional homestay providing a warm and welcoming atmosphere with personalized service.",
+          "amenities": ["Home-cooked meals", "Garden", "Free Wi-Fi"],
+          "location": "Lebong Cart Road, Darjeeling"
+        },
+        {
+          "name": "Vrbo - Mountain Retreat",
+          "description": "Spacious vacation rental with a serene setting and easy access to local attractions.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Batasia Loop, Darjeeling"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Darjeeling",
+          "description": "A lively hostel offering dorms and private rooms with a social atmosphere and organized activities, located near the main attractions.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Near Chowrasta, Darjeeling"
+        },
+        {
+          "name": "The Backpacker Hostel",
+          "description": "A budget-friendly hostel providing clean dorms and a relaxed environment with a focus on community.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Himalaya Mall, Darjeeling"
+        },
+        {
+          "name": "The Travellers Inn",
+          "description": "A cozy hostel with a homely atmosphere, offering affordable accommodations and a focus on cultural exchange.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Chowrasta, Darjeeling"
+        }
+      ]
+    }
+  },
+  {
+    "Andaman and Nicobar Islands": {
+      "hotels": [
+        {
+          "name": "The Taj Exotica Resort & Spa",
+          "description": "A luxurious resort offering stunning views of the turquoise waters and lush greenery, with world-class amenities and services.",
+          "amenities": ["Swimming pool", "Spa", "Private beach", "Multiple restaurants", "Free Wi-Fi"],
+          "location": "Radhanagar Beach, Havelock Island"
+        },
+        {
+          "name": "Barefoot at Havelock",
+          "description": "A eco-friendly resort providing a rustic yet comfortable stay amidst nature, with beachfront cottages and personalized service.",
+          "amenities": ["Restaurant", "Spa", "Private beach", "Free Wi-Fi"],
+          "location": "Havelock Island"
+        },
+        {
+          "name": "SeaShell Coral Cove",
+          "description": "A modern resort with comfortable rooms and easy access to beaches, offering a blend of luxury and convenience.",
+          "amenities": ["Restaurant", "Swimming pool", "Free Wi-Fi"],
+          "location": "Port Blair"
+        },
+        {
+          "name": "J Hotel",
+          "description": "A comfortable hotel with essential amenities, located in the heart of Port Blair with easy access to local attractions.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Port Blair"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Andaman Beach House",
+          "description": "A charming beachfront rental offering a relaxing stay with modern amenities and stunning sea views.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Havelock Island"
+        },
+        {
+          "name": "Airbnb - Coral Reef Retreat",
+          "description": "A serene retreat with cozy accommodations and easy access to snorkeling and diving spots.",
+          "amenities": ["Kitchen", "Garden", "Free Wi-Fi"],
+          "location": "Port Blair"
+        },
+        {
+          "name": "Vrbo - Andaman Sea View Villa",
+          "description": "Spacious villa with panoramic sea views, ideal for families and groups looking for a luxurious stay.",
+          "amenities": ["Kitchen", "Living area", "Private pool", "Free Wi-Fi"],
+          "location": "Havelock Island"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Havelock",
+          "description": "A popular hostel offering a lively atmosphere with dorms and private rooms, located near the beach with organized activities.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Havelock Island"
+        },
+        {
+          "name": "Hostel Andaman",
+          "description": "A budget-friendly hostel providing clean accommodations and a social environment, close to Port Blair's main attractions.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Port Blair"
+        },
+        {
+          "name": "The Backpacker Hostel",
+          "description": "A cozy hostel with a homely vibe, offering affordable stays and a focus on community and cultural exchange.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Port Blair"
+        }
+      ]
+    }
+  },
+  {
+    "Amritsar, Punjab": {
+      "hotels": [
+        {
+          "name": "Hyatt Regency Amritsar",
+          "description": "A luxury hotel offering elegant rooms and modern amenities, located close to the Golden Temple and other major attractions.",
+          "amenities": ["Swimming pool", "Spa", "Fitness center", "Multiple restaurants", "Free Wi-Fi"],
+          "location": "Fatehgarh Churian Road, Amritsar"
+        },
+        {
+          "name": "Radisson Blu Hotel Amritsar",
+          "description": "Upscale hotel with comfortable accommodations and excellent facilities, situated near Amritsar's central attractions.",
+          "amenities": ["Swimming pool", "Spa", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Airport Road, Amritsar"
+        },
+        {
+          "name": "Hotel Swarn House",
+          "description": "A budget-friendly hotel providing essential amenities and a comfortable stay, located near the Golden Temple.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Near Golden Temple, Amritsar"
+        },
+        {
+          "name": "Golden Temple Retreat",
+          "description": "A comfortable hotel with modern amenities, located close to the Golden Temple, offering a peaceful retreat.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Near Golden Temple, Amritsar"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Amritsar Heritage Home",
+          "description": "A traditional home stay offering a blend of comfort and heritage, located near the Golden Temple.",
+          "amenities": ["Home-cooked meals", "Garden", "Free Wi-Fi"],
+          "location": "Near Golden Temple, Amritsar"
+        },
+        {
+          "name": "Airbnb - Amritsar City Apartment",
+          "description": "A modern apartment offering comfortable accommodations with easy access to local attractions.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "City Center, Amritsar"
+        },
+        {
+          "name": "Vrbo - Amritsar Retreat",
+          "description": "Spacious vacation rental with modern amenities, ideal for families and groups visiting Amritsar.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Amritsar City Center"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Amritsar",
+          "description": "A lively hostel offering dorms and private rooms with a social atmosphere, located near major attractions.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Near Golden Temple, Amritsar"
+        },
+        {
+          "name": "Hostel Amritsar",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms and a relaxed environment.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Near City Center, Amritsar"
+        },
+        {
+          "name": "The Backpacker Hostel",
+          "description": "A cozy hostel with affordable accommodations and a focus on community and cultural exchange.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "City Center, Amritsar"
+        }
+      ]
+    }
+  },
+  {
+    "Pondicherry": {
+      "hotels": [
+        {
+          "name": "The Promenade",
+          "description": "A luxury hotel with elegant rooms and stunning views of the Bay of Bengal, located near Pondicherry's main attractions.",
+          "amenities": ["Swimming pool", "Restaurant", "Spa", "Free Wi-Fi"],
+          "location": "29 Rue Dumas, Pondicherry"
+        },
+        {
+          "name": "Le Pondy",
+          "description": "A luxurious resort offering comfortable accommodations with a private beach and modern amenities.",
+          "amenities": ["Swimming pool", "Private beach", "Spa", "Restaurant", "Free Wi-Fi"],
+          "location": "No. 5, 6 & 7, Kottakuppam, Pondicherry"
+        },
+        {
+          "name": "Hotel de l'Orient",
+          "description": "A charming boutique hotel with colonial architecture, located in the French Quarter of Pondicherry.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "17, Romain Rolland Street, Pondicherry"
+        },
+        {
+          "name": "Shenbaga Hotel & Resort",
+          "description": "A modern hotel offering a range of amenities and comfortable accommodations, situated close to the city center.",
+          "amenities": ["Restaurant", "Swimming pool", "Fitness center", "Free Wi-Fi"],
+          "location": "113, R.S. No. 9, Ariyankuppam, Pondicherry"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Heritage Villa",
+          "description": "A beautifully restored villa offering a blend of traditional charm and modern comfort, located in the French Quarter.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "French Quarter, Pondicherry"
+        },
+        {
+          "name": "Airbnb - Seaside Apartment",
+          "description": "A cozy apartment with stunning views of the sea and easy access to local attractions.",
+          "amenities": ["Kitchen", "Balcony", "Free Wi-Fi"],
+          "location": "Near Promenade Beach, Pondicherry"
+        },
+        {
+          "name": "Vrbo - Pondicherry Retreat",
+          "description": "Spacious vacation rental with modern amenities and a relaxing atmosphere, ideal for families and groups.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Pondicherry City Center"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Pondicherry",
+          "description": "A popular hostel offering a vibrant atmosphere with dorms and private rooms, located near the beach.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Near Promenade Beach, Pondicherry"
+        },
+        {
+          "name": "Moustache Hostel",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms with a social environment.",
+          "amenities": ["Common area", "Bicycle rentals", "Free Wi-Fi"],
+          "location": "Near White Town, Pondicherry"
+        },
+        {
+          "name": "Hostel Villa Shanti",
+          "description": "A cozy hostel with a focus on community and cultural exchange, offering affordable stays.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "French Quarter, Pondicherry"
+        }
+      ]
+    }
+  },
+  {
+    "Nainital, Uttarakhand": {
+      "hotels": [
+        {
+          "name": "The Naini Retreat",
+          "description": "A luxury hotel offering stunning views of Naini Lake and the surrounding hills, with a blend of modern amenities and colonial charm.",
+          "amenities": ["Restaurant", "Spa", "Fitness center", "Free Wi-Fi"],
+          "location": "Aru Ghat, Nainital"
+        },
+        {
+          "name": "Hotel Bhawanipur Greens",
+          "description": "A comfortable hotel with scenic views and modern amenities, located near the Naini Lake and other attractions.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "The Mall, Nainital"
+        },
+        {
+          "name": "Hotel Hilltop",
+          "description": "A cozy hotel offering breathtaking views of the valley and lake, with easy access to Nainital’s main attractions.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Mall Road, Nainital"
+        },
+        {
+          "name": "Country Inn & Suites by Radisson",
+          "description": "An upscale hotel with comfortable accommodations, modern facilities, and a serene environment.",
+          "amenities": ["Restaurant", "Swimming pool", "Fitness center", "Free Wi-Fi"],
+          "location": "Village Dhemri, Nainital"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Lake View Cottage",
+          "description": "A charming cottage offering panoramic views of Naini Lake and cozy accommodations with modern amenities.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Near Naini Lake, Nainital"
+        },
+        {
+          "name": "Airbnb - Hilltop Villa",
+          "description": "A spacious villa with stunning hill views, ideal for families and groups, located a short drive from Nainital.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Nainital City Center"
+        },
+        {
+          "name": "Vrbo - Nainital Retreat",
+          "description": "A large vacation rental with modern amenities and a relaxing atmosphere, perfect for extended stays.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Nainital City Center"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Nainital",
+          "description": "A lively hostel offering dorms and private rooms with a social atmosphere, located near Naini Lake.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Near Naini Lake, Nainital"
+        },
+        {
+          "name": "Hostel Backpackers",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms with a relaxed vibe.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Mall Road, Nainital"
+        },
+        {
+          "name": "The Hostel",
+          "description": "A cozy hostel with a homely atmosphere, focusing on community and cultural exchange.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Nainital City Center"
+        }
+      ]
+    }
+  },
+  {
+    "Munnar, Kerala": {
+      "hotels": [
+        {
+          "name": "Tea County Munnar",
+          "description": "A luxury resort set amidst tea gardens, offering breathtaking views and modern amenities for a serene stay.",
+          "amenities": ["Restaurant", "Spa", "Fitness center", "Free Wi-Fi"],
+          "location": "Kannan Devan Hills, Munnar"
+        },
+        {
+          "name": "The Panoramic Getaway",
+          "description": "A high-end resort with panoramic views of the hills and lush greenery, offering comfortable accommodations and various recreational facilities.",
+          "amenities": ["Swimming pool", "Restaurant", "Spa", "Free Wi-Fi"],
+          "location": "Pothamedu, Munnar"
+        },
+        {
+          "name": "Spice Tree Munnar",
+          "description": "A boutique hotel providing a unique experience with its spice plantation and luxury accommodations.",
+          "amenities": ["Restaurant", "Spa", "Fitness center", "Free Wi-Fi"],
+          "location": "Kochi-Munnar Road, Munnar"
+        },
+        {
+          "name": "Club Mahindra Munnar",
+          "description": "A family-friendly resort offering a range of activities and amenities, located in the picturesque hills of Munnar.",
+          "amenities": ["Restaurant", "Swimming pool", "Fitness center", "Free Wi-Fi"],
+          "location": "Chinnakanal, Munnar"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Hill View Cottage",
+          "description": "A cozy cottage offering spectacular views of the hills and tea gardens, perfect for a peaceful retreat.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Near Munnar Town"
+        },
+        {
+          "name": "Airbnb - Munnar Retreat",
+          "description": "A spacious vacation rental with modern amenities and a serene environment, ideal for families or groups.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Munnar City Center"
+        },
+        {
+          "name": "Vrbo - Tea Garden Villa",
+          "description": "A beautifully furnished villa located amidst tea gardens, offering a blend of comfort and luxury.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Munnar"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Munnar",
+          "description": "A popular hostel offering dorms and private rooms with a social atmosphere, located near the town center.",
+          "amenities": ["Common lounge", "Free Wi-Fi"],
+          "location": "Near Munnar Town"
+        },
+        {
+          "name": "Munnar Backpackers Hostel",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms with a relaxed environment.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Munnar City Center"
+        },
+        {
+          "name": "The Hosteller Munnar",
+          "description": "A cozy hostel with a focus on community and cultural exchange, offering affordable accommodations.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Munnar"
+        }
+      ]
+    }
+  },
+  {
+    "Shillong, Meghalaya": {
+      "hotels": [
+        {
+          "name": "Hotel Polo Towers",
+          "description": "A luxurious hotel offering modern amenities and panoramic views of the Shillong skyline, conveniently located near major attractions.",
+          "amenities": ["Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Polo Grounds, Shillong"
+        },
+        {
+          "name": "The Elmwood",
+          "description": "A charming boutique hotel with cozy accommodations and a warm atmosphere, located in the heart of Shillong.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Laitumkhrah, Shillong"
+        },
+        {
+          "name": "Hotel Hill View",
+          "description": "A comfortable hotel with essential amenities and beautiful views of the surrounding hills, situated close to Shillong’s central areas.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Shillong City Center"
+        },
+        {
+          "name": "Vivanta Shillong",
+          "description": "An upscale hotel offering contemporary design and luxury, with excellent facilities and services for a memorable stay.",
+          "amenities": ["Swimming pool", "Spa", "Restaurant", "Free Wi-Fi"],
+          "location": "Near Police Bazaar, Shillong"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Hilltop Retreat",
+          "description": "A serene vacation rental offering stunning views of the hills and a cozy stay with modern amenities.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Near Shillong City Center"
+        },
+        {
+          "name": "Airbnb - Shillong Cottage",
+          "description": "A charming cottage providing a homely atmosphere and easy access to Shillong’s attractions.",
+          "amenities": ["Kitchen", "Garden", "Free Wi-Fi"],
+          "location": "Laitumkhrah, Shillong"
+        },
+        {
+          "name": "Vrbo - Shillong Villa",
+          "description": "A spacious villa with contemporary design and ample space for families or groups, offering a relaxing environment.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Shillong"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Shillong",
+          "description": "A vibrant hostel with a social atmosphere, offering dorms and private rooms, located near Shillong’s main attractions.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Police Bazaar, Shillong"
+        },
+        {
+          "name": "Moustache Shillong",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms with a relaxed vibe.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Shillong City Center"
+        },
+        {
+          "name": "The Backpacker Hostel",
+          "description": "A cozy hostel with a focus on community and cultural exchange, offering affordable accommodations.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Shillong"
+        }
+      ]
+    }
+  },
+  {
+    "Hampi, Karnataka": {
+      "hotels": [
+        {
+          "name": "Eagle's Nest",
+          "description": "A comfortable hotel offering modern amenities with beautiful views of the surrounding landscape and historical sites.",
+          "amenities": ["Restaurant", "Free Wi-Fi", "Outdoor seating"],
+          "location": "Hampi"
+        },
+        {
+          "name": "Hampi Boulders",
+          "description": "A unique resort set amidst boulders and ancient ruins, providing a blend of luxury and nature.",
+          "amenities": ["Restaurant", "Swimming pool", "Spa", "Free Wi-Fi"],
+          "location": "Hampi"
+        },
+        {
+          "name": "Kishkinda Heritage Resort",
+          "description": "A heritage resort offering a traditional ambiance with modern amenities, located close to Hampi’s major attractions.",
+          "amenities": ["Restaurant", "Free Wi-Fi", "Outdoor activities"],
+          "location": "Hampi"
+        },
+        {
+          "name": "Hotel Malligi",
+          "description": "A well-known hotel providing comfortable accommodations and essential amenities, located in the heart of Hampi.",
+          "amenities": ["Restaurant", "Free Wi-Fi", "Travel desk"],
+          "location": "Hospet, near Hampi"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Hampi Heritage Cottage",
+          "description": "A charming cottage offering a blend of traditional style and modern comfort, located near Hampi’s historical sites.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Hampi"
+        },
+        {
+          "name": "Airbnb - Riverside Retreat",
+          "description": "A tranquil retreat with scenic views and cozy accommodations, ideal for relaxation and exploration.",
+          "amenities": ["Kitchen", "Garden", "Free Wi-Fi"],
+          "location": "Hampi"
+        },
+        {
+          "name": "Vrbo - Hampi Villa",
+          "description": "A spacious villa with modern amenities and a relaxing environment, suitable for families and groups.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Hampi"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Hampi",
+          "description": "A lively hostel offering dorms and private rooms with a social atmosphere, located close to major attractions.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Hampi"
+        },
+        {
+          "name": "Moustache Hampi",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms with a relaxed environment and friendly staff.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Hampi"
+        },
+        {
+          "name": "The Hampi Hostel",
+          "description": "A cozy hostel with a focus on community and cultural exchange, offering affordable accommodations.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Hampi"
+        }
+      ]
+    }
+  },
+  {
+    "Mahabalipuram, Tamil Nadu": {
+      "hotels": [
+        {
+          "name": "Radisson Blu Resort Temple Bay",
+          "description": "A luxurious resort offering stunning views of the Bay of Bengal and top-notch amenities, located near the famous Shore Temple.",
+          "amenities": ["Swimming pool", "Spa", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Temple Bay, Mahabalipuram"
+        },
+        {
+          "name": "Hotel Mamalla Heritage",
+          "description": "A comfortable hotel with a blend of traditional and modern amenities, situated close to Mahabalipuram's historical sites.",
+          "amenities": ["Restaurant", "Free Wi-Fi", "Outdoor seating"],
+          "location": "East Coast Road, Mahabalipuram"
+        },
+        {
+          "name": "The Leela Palace Chennai",
+          "description": "A high-end hotel with luxury accommodations and excellent facilities, providing a beautiful setting by the sea.",
+          "amenities": ["Swimming pool", "Spa", "Restaurant", "Fitness center", "Free Wi-Fi"],
+          "location": "Muttukadu, Chennai (near Mahabalipuram)"
+        },
+        {
+          "name": "Grande Bay Resort and Spa",
+          "description": "A boutique resort offering a tranquil environment and luxurious amenities, located close to the beach.",
+          "amenities": ["Restaurant", "Swimming pool", "Spa", "Free Wi-Fi"],
+          "location": "Maharashtra Colony, Mahabalipuram"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Coastal Villa",
+          "description": "A beautiful villa with ocean views and modern amenities, ideal for families or groups.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Near Mahabalipuram Beach"
+        },
+        {
+          "name": "Airbnb - Mahabalipuram Retreat",
+          "description": "A cozy retreat offering a relaxing atmosphere and easy access to Mahabalipuram’s attractions.",
+          "amenities": ["Kitchen", "Garden", "Free Wi-Fi"],
+          "location": "Mahabalipuram"
+        },
+        {
+          "name": "Vrbo - Beachside Cottage",
+          "description": "A charming cottage with direct beach access and modern amenities, perfect for a peaceful getaway.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Mahabalipuram Beach"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Mahabalipuram",
+          "description": "A vibrant hostel offering dorms and private rooms with a social atmosphere, located near Mahabalipuram's major attractions.",
+          "amenities": ["Common lounge", "Free Wi-Fi"],
+          "location": "Mahabalipuram"
+        },
+        {
+          "name": "Hostel Zostel",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms with a relaxed environment.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Mahabalipuram"
+        },
+        {
+          "name": "The Backpackers Hostel",
+          "description": "A cozy hostel with a focus on community and cultural exchange, offering affordable stays.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Mahabalipuram"
+        }
+      ]
+    }
+  },
+  {
+    "Gokarna, Karnataka": {
+      "hotels": [
+        {
+          "name": "Namaste Yoga Farm",
+          "description": "A serene resort offering yoga retreats and comfortable accommodations, located near Om Beach.",
+          "amenities": ["Yoga classes", "Restaurant", "Free Wi-Fi"],
+          "location": "Om Beach, Gokarna"
+        },
+        {
+          "name": "Kudle Beach View Resort",
+          "description": "A beachfront resort with stunning views of Kudle Beach and modern amenities for a relaxing stay.",
+          "amenities": ["Restaurant", "Free Wi-Fi", "Beach access"],
+          "location": "Kudle Beach, Gokarna"
+        },
+        {
+          "name": "Om Beach Resort",
+          "description": "A charming resort located right on Om Beach, offering comfortable accommodations and easy access to the beach.",
+          "amenities": ["Restaurant", "Free Wi-Fi", "Beach access"],
+          "location": "Om Beach, Gokarna"
+        },
+        {
+          "name": "Hotel Namaste",
+          "description": "A budget-friendly hotel with basic amenities, located near Gokarna’s main attractions.",
+          "amenities": ["Restaurant", "Free Wi-Fi"],
+          "location": "Gokarna Town"
+        }
+      ],
+      "vacation_rentals": [
+        {
+          "name": "Airbnb - Beachside Cottage",
+          "description": "A cozy cottage offering direct access to the beach and a relaxing atmosphere.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Near Om Beach, Gokarna"
+        },
+        {
+          "name": "Airbnb - Gokarna Retreat",
+          "description": "A tranquil retreat with modern amenities and close proximity to Gokarna’s beaches and temples.",
+          "amenities": ["Kitchen", "Garden", "Free Wi-Fi"],
+          "location": "Gokarna"
+        },
+        {
+          "name": "Vrbo - Coastal Villa",
+          "description": "A spacious villa with ocean views, ideal for families or groups looking for a peaceful getaway.",
+          "amenities": ["Kitchen", "Living area", "Free Wi-Fi"],
+          "location": "Gokarna"
+        }
+      ],
+      "hostels": [
+        {
+          "name": "Zostel Gokarna",
+          "description": "A lively hostel offering dorms and private rooms with a social atmosphere, located near Gokarna’s beaches.",
+          "amenities": ["Common lounge", "Rooftop cafe", "Free Wi-Fi"],
+          "location": "Gokarna"
+        },
+        {
+          "name": "Moustache Gokarna",
+          "description": "A budget-friendly hostel providing clean and comfortable dorms with a relaxed vibe.",
+          "amenities": ["Common area", "Free Wi-Fi"],
+          "location": "Gokarna"
+        },
+        {
+          "name": "The Backpackers Hostel",
+          "description": "A cozy hostel with a focus on community and cultural exchange, offering affordable accommodations.",
+          "amenities": ["Common kitchen", "Outdoor seating", "Free Wi-Fi"],
+          "location": "Gokarna"
+        }
+      ]
+    }
+  }
+]
+  
